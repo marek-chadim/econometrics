@@ -45,7 +45,7 @@ Plus two longer pieces, both course requirements:
 - `abgrs_presentation.pdf` — oral-examination presentation of Andrews, Barahona, Gentzkow,
 Rambachan and Shapiro, "Causal Interpretation of Structural IV Estimands"
 (*Quarterly Journal of Economics* 140(3), 2025).
-- `referee_report_bchl.pdf` — referee report, written to *Econometrica* guidelines, on Borusyak,
+- `referee_report_bchl.pdf` — referee report on Borusyak,
 Chen, Hull and Lei, "Nonparametric Identification of Demand without Exogenous Product
 Characteristics" (NBER Working Paper 34842).
 
